@@ -1,3 +1,3 @@
 # Learn Python
 
-#### -[Triangle/Asterisks](./asterisks.py)
+#### * [Triangle/Asterisks](./asterisks.py)
