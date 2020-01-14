@@ -8,6 +8,15 @@ for (i = 0; i < rows; i++) {
  console.log('*');
 }
 
+/* OUTPUT
+
+*
+*
+*
+*
+*
+
+*/
 
 console.log('2. Menggunakan nested loop')
 
@@ -20,7 +29,17 @@ for (i = 5; i > 0; i--) {
 asterisks = ''
 }
 
-console.log('3. ')
+/* OUTPUT
+
+*****
+*****
+*****
+*****
+*****
+
+*/
+
+console.log('3. Segitiga Siku-siku')
 
 
 for (i = 0; i < rows; i++) {
@@ -31,8 +50,18 @@ for (i = 0; i < rows; i++) {
  asterisks = ''
 }
 
+/* OUTPUT
 
-console.log('4. ')
+*
+**
+***
+****
+*****
+
+*/
+
+
+console.log('4. Segitiga Siku-siku terbalik ')
 
 
 for (i = rows; i > 0; i--) {
@@ -42,3 +71,13 @@ for (i = rows; i > 0; i--) {
  console.log(asterisks);
  asterisks = '';
 }
+
+/* OUTPUT
+
+*****
+****
+***
+**
+*
+
+*/
