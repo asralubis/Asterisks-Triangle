@@ -1,4 +1,4 @@
 # Asterisks Triangle
 
-#### [Javascript]
-#### [Python]
+#### [Javascript] (./asterisks.js)
+#### [Python] (./asterisks.py)
